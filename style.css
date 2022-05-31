@@ -57,7 +57,7 @@ li a {
 .about_me {
     display: flex;
     flex-direction: column;
-    flex: 1 0 auto;
+    flex: 2 0 auto;
 }
 
 .data {
@@ -82,7 +82,8 @@ li a {
 }
 
 .article {
-    margin-top: 2em;   
+    margin-top: 2em;
+    text-align: center;   
 }
 
 
@@ -93,8 +94,9 @@ p {
 }
 
 .text {
-    font-size: 1rem;
-    color: #585858;
+    font-size: 2rem;
+    color: #08298A;
+    text-align: center;
 }
 
 h2 {
