@@ -1,4 +1,4 @@
 
 				<div class="logo">
-    			<img src="img/l.png" alt="php">
+    			<img src="myproject/img/l.png" alt="php">
 				</div>
