@@ -60,10 +60,9 @@
 
 			</div>
 
-			<div class="article">
+			<div class="text">
 				<p class="text">
-					Vincitur via ambulationis
-				</p>
+					Vincitur via ambulationis</p>
 			</div>
 		</div>
 
